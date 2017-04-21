@@ -1,4 +1,4 @@
-git is a version very good tool
-git is a free software 
+ is a version very good tool
+ is a free software 
 git modify
 
